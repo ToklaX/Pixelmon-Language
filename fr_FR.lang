@@ -503,15 +503,15 @@ tile.poke_chest.name=Poké Coffre
 tile.ultra_chest.name=Ultra Coffre
 tile.master_chest.name=Master Coffre
 
-item.tm1.name=CT1: Garde Large
-item.tm2.name=CT2: Dracogriffe
-item.tm3.name=CT3: Choc Psy
-item.tm4.name=CT4: Plénitude
-item.tm5.name=CT5: Hurlement
-item.tm6.name=CT6: Toxic
-item.tm7.name=CT7: Grêle
-item.tm8.name=CT8: Gonflette
-item.tm9.name=CT9: Choc Venin
+item.tm1.name=CT01: Garde Large
+item.tm2.name=CT02: Dracogriffe
+item.tm3.name=CT03: Choc Psy
+item.tm4.name=CT04: Plénitude
+item.tm5.name=CT05: Hurlement
+item.tm6.name=CT06: Toxic
+item.tm7.name=CT07: Grêle
+item.tm8.name=CT08: Gonflette
+item.tm9.name=CT09: Choc Venin
 item.tm10.name=CT10: Puissance Cachée
 item.tm11.name=CT11: Zénith
 item.tm12.name=CT12: Provoc
@@ -674,15 +674,15 @@ item.tm168.name=TM168: Poing Boost
 item.tm169.name=TM169: Éclat Magique
 item.tm170.name=TM170: Confidence
 
-item.hm1.name=CS1: Coupe
-item.hm2.name=CS2: Vol
-item.hm3.name=CS3: Surf
-item.hm4.name=CS4: Force
-item.hm5.name=CS5: Anti-Brume
-item.hm6.name=CS6: Éclate-Roc
-item.hm7.name=CS7: Cascade
-item.hm8.name=CS8: Escalade
-item.hm9.name=CS9: Siphon
+item.hm1.name=CS01: Coupe
+item.hm2.name=CS02: Vol
+item.hm3.name=CS03: Surf
+item.hm4.name=CS04: Force
+item.hm5.name=CS05: Anti-Brume
+item.hm6.name=CS06: Éclate-Roc
+item.hm7.name=CS07: Cascade
+item.hm8.name=CS08: Escalade
+item.hm9.name=CS09: Siphon
 item.hm10.name=CS10: Plongée
            
 item.pokemail_air.name=Lettre Avion
@@ -3761,8 +3761,9 @@ pixelmon.entitytrainer.superrod=Vous avez reçu une Méga Canne !
 pixelmon.entitytrainer.onceday=Ce dresseur ne peut être combattu qu'une fois par jour.
 pixelmon.entitytrainer.oncemcday=Ce dresseur ne peut être combattu qu'une fois par jour Minecraft.
 pixelmon.entitytrainer.onceplayer=Ce dresseur ne peut être combattu qu'une fois par joueur.
-pixelmon.entitytrainer.level=Niv:
+pixelmon.entitytrainer.level=Nv:
 pixelmon.entitytrainer.winnings=Vous remportez %s PokéDollars en vainquant %s !
+pixelmon.entitytrainer.dropitemstitle=Vous avez vaincu le chef d'Arène %s !
 
 trainer.edit.opwarning=Vous n'avez pas la permission de modifier les PNJs.
 
@@ -3889,7 +3890,7 @@ pixelmon.blocks.tree.change4=L'arbre utilise désormais le modèle #4.
 
 pixelmon.blocks.movepad.loopbuilderror=Les boucles infinies de plaques de mouvement ne sont pas autorisées !
 
-pixelmon.blocks.gymsign.ownership=This Gym sign does not belong to you.
+pixelmon.blocks.gymsign.ownership=Cette pancarte d'Arène ne vous appartient pas.
 
 pixelmon.orb.amountfull=Vous devez encore tuer %d pokemons pour que votre orbe soit plein !
 pixelmon.orb.isfull=Votre orbe est plein !
